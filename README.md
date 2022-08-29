@@ -1,6 +1,15 @@
 # Instadating
 React Native
 
+
+## Detail
+
+1. add Swipe cards like tinder and use matching algorithm 
+2. If any user match we do chat this user 
+3. In the chat Text message and audio video calling
+4. Backend of this app - Firebase
+
+
 ## Enable Push Notification
 
 To enable push notification, you need to deploy the firebase functions.
