@@ -48,11 +48,12 @@ After this, you should have firebaseFunctions deployed on your firebase console 
 ## Image Preview
 
 
+![Screenshot_20220829_133130](https://user-images.githubusercontent.com/109139213/187169565-5edf9bd0-5390-4e52-bd57-1b11403b9166.jpg)
+
 ![Screenshot_20220829_133321](https://user-images.githubusercontent.com/109139213/187169530-c4a28aa8-87bb-47c4-861d-0680b8c32b3b.jpg)
 
 ![Screenshot_20220829_133351](https://user-images.githubusercontent.com/109139213/187169544-e7ccf015-dafa-42e8-a905-98bb652bff8e.jpg)
 
-![Screenshot_20220829_133130](https://user-images.githubusercontent.com/109139213/187169565-5edf9bd0-5390-4e52-bd57-1b11403b9166.jpg)
 
 ![Screenshot_20220829_133208](https://user-images.githubusercontent.com/109139213/187169609-e25ad37e-559a-4101-8321-6f26d40df43a.jpg)
 
